@@ -1,5 +1,8 @@
 # fluentbit-plugin-out-detail
 
+[![Build Status](https://travis-ci.org/nokute78/fluentbit-plugin-out-detail.svg?branch=master)](https://travis-ci.org/nokute78/fluentbit-plugin-out-detail)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nokute78/fluentbit-plugin-out-detail)](https://goreportcard.com/report/github.com/nokute78/fluentbit-plugin-out-detail)
+
 Ouput plugin for [Fluent-Bit](https://fluentbit.io/) to show MessagePack in detail.
 
 ## Build
